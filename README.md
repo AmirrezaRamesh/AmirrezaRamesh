@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amir, EE student at ShahidBeheshtiUniversity </h1>
+<h1 align="center">Hi 👋  I'm Amir, EE student at ShahidBeheshti University </h1>
 
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/YCZM.gif">
 
