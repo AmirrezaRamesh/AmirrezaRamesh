@@ -1,12 +1,14 @@
-<h1 align="center">Hi 👋, I'm Amir</h1>
-<h3 align="center">Sleepy and tired all the time but curoius about the world around me!</h3>
+<h1 align="center">Hi 👋, I'm Amir, EE student at ShahidBeheshtiUniversity </h1>
+
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/YCZM.gif">
+
+- 🙂 Sleepy and tired all the time but **curoius about the world around me!**
 
 - 🌱 I’m currently learning **programming(python and cpp), network & linux and robotics basics**
 
-- 🎮 Intrested in **video games and movies. I can't make normal conversation about anything else!**
+- 🎮 Intrested in **video games and movies. I can't make conversation about anything else without being awkward!**
 
-- 💫 Fun fact **I sleep 12 hours a day.**
+- 💫 Fun fact: **I sleep 12 hours a day.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
