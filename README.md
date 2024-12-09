@@ -2,7 +2,7 @@
 
 - 🙂 Sleepy and tired all the time but **curoius about the world around me!**
 
-- 🌱 I’m currently learning **Linux, Network, Robotics and programming(python and cpp)**
+- 🌱 I’m currently learning **Linux, Network, Robotics**
 
 - 🎮 Intrested in **video games and movies. I can't make conversations about anything else without being awkward!**
 
