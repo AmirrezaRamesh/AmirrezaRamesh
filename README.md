@@ -14,7 +14,7 @@
 
 - 🥷 rameshamirrezaramesh3@gmail.com
 
-- 🧑‍💼 www.linkedin.com/in/amir-reza-ramesh-569646310
+- 🧑‍💼 linkedin.com/in/amirreza-ramesh-0a6806344
 
 
 
