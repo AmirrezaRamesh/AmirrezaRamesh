@@ -10,7 +10,7 @@
   
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/YCZM.gif">
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Reach me via:</h3>
 
 - 🥷 rameshamirrezaramesh3@gmail.com
 
