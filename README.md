@@ -2,11 +2,10 @@
 
 - 🙂 Sleepy and tired all the time but **curoius about the world around me!**
 
-- 🌱 I’m currently learning **Linux, Network and Robotics**
+- 🌱 I’m currently learning **Robotics, Network & Linux**
 
-- 🎮 Intrested in **video games and movies. I can't make conversations about anything else without being awkward!**
+- 🎮 Intrested in **video games and movies**. I can't make conversations about anything else without being awkward!
 
-- 💫 Fun fact: **I sleep 12 hours a day.**
   
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/YCZM.gif">
 
