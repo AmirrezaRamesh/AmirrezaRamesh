@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋  I'm Amirreza!  </h1>
 
-- 🙂 Electrical Engineer at Shahid Beheshti University
+- 🙂 Electrical Engineer at **Shahid Beheshti University**
 
 - 🌱 I’m currently learning **Robotics, Network & Linux**
 
