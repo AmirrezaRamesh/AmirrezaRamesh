@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋  I'm Amir!  </h1>
+<h1 align="center">Hi 👋  I'm Amirreza!  </h1>
 
-- 🙂 Sleepy and tired all the time but **curiosity keeps me awake!**
+- 🙂 Electrical Engineer at Shahid Beheshti University
 
 - 🌱 I’m currently learning **Robotics, Network & Linux**
 
